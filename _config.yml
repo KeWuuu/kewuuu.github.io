@@ -17,15 +17,15 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: 
-  email: xiongyunhan@outlook.com
+  zhihu: william巫珂
+  email: wuke2034@gmail.com
   facebook:
-  github: pianfan
+  github: kewuuu
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 Ke Wu
 
 url: https://pianfan.github.io
 
